@@ -1,4 +1,4 @@
-#easy linux for ubuntu
+#easy linux for ubuntu version 0.1
 import os
 print("WELCOME TO EASYLINUX")
 Decision = input("Do you want to continue with the installation? y or N")
