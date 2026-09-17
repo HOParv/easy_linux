@@ -1,3 +1,4 @@
 easy_linux changelog
 0.1 added beta python script 16/9/26
-0.1.1 added readme and changelog 179/26
+0.1.1 added readme and changelog 17/9/26
+0.1.2 first tests of the package system 27/9/26
