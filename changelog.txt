@@ -1,0 +1,3 @@
+easy_linux changelog
+0.1 added beta python script 16/9/26
+0.1.1 added readme and changelog 179/26
