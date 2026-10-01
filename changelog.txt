@@ -3,3 +3,4 @@ easy_linux changelog
 0.1.1 added readme and changelog 17/9/26
 0.1.2 first tests of the package system 27/9/26
 0.1.3 Upgrading and adding more packages and improving the stability
+0.1.4 A little change to maintain an structure on the inputs
