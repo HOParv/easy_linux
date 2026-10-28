@@ -73,7 +73,10 @@ if Decision == "y":
     if obs == y
         print("INSTALLING OBS-STUDIO")
         os.system("sudo apt install obs-studio -y")
-
+    kitty = input("DO YOU WANT TO GET A PRETTIEST TERMINAL? ")
+    if kitty == y
+        print("INSTALLING KITTY")
+        os.system("sudo apt install kitty")
 else:
     print("operation cancelled")
 
