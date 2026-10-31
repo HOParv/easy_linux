@@ -5,3 +5,7 @@ easy_linux changelog
 0.1.3 Upgrading and adding more packages and improving the stability
 0.1.4 A little change to maintain an structure on the inputs
 0.1.5 More fixes for the UI. 27/10/26
+
+
+#termux#
+0.1 first version 31/10/26
