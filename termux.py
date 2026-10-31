@@ -18,7 +18,7 @@ if cctv == "y":
     time.sleep(5)
 
 nano = input("DO YOU WANT TO GET NANO?. AN SIMPLE TEDT EDITO")
-if nano == "y"
+if nano == "y":
     os.system("apt install nano")
     print("INSTALLED CORRECTLY")
     time.sleep(5)
