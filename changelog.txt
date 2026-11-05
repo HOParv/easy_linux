@@ -9,3 +9,4 @@ easy_linux changelog
 
 #termux#
 0.1 first version 31/10/26
+0.1.1 More programs for installing 5/11/26
